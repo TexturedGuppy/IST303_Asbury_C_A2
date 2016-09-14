@@ -8,5 +8,15 @@ namespace IST303_Asbury_C_A2
 {
     class Item
     {
+        //Variables
+        string iName;
+        int numItems;
+        double price;
+
+        //Default Constructor
+        public Item()
+        {
+
+        }
     }
 }
