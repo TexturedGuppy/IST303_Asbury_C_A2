@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace IST303_Asbury_C_A2
 {
-    class Program
+    class Item
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
