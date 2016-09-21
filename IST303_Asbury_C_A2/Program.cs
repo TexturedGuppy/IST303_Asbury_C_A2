@@ -10,7 +10,7 @@ namespace IST303_Asbury_C_A2
     {
         static void Main(string[] args)
         {
-
+            private Item[] inventory = new Item[5];
         }
     }
 }
