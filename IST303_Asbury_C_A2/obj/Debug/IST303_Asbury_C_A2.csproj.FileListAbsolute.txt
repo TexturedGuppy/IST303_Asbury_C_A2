@@ -5,3 +5,8 @@ C:\Users\User\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_As
 C:\Users\User\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\obj\Debug\IST303_Asbury_C_A2.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\obj\Debug\IST303_Asbury_C_A2.exe
 C:\Users\User\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\obj\Debug\IST303_Asbury_C_A2.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\obj\Debug\IST303_Asbury_C_A2.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\obj\Debug\IST303_Asbury_C_A2.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\bin\Debug\IST303_Asbury_C_A2.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\bin\Debug\IST303_Asbury_C_A2.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\IST303_Asbury_C_A2\IST303_Asbury_C_A2\obj\Debug\IST303_Asbury_C_A2.csprojResolveAssemblyReference.cache
